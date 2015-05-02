@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MagazinOnlineMvc.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>List Of Products</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")   
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.price)
+        </th>
+        <th>
+            @Html.DisplayName("No Products")
+        </th>
+        @*<th>
+            @Html.DisplayName("fdsfds");
+        </th>*@
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.numberOfProducts)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID }) |
+            @Html.ActionLink("Buy", "Buy", new { id = item.ID } )
+            
+        </td>
+    </tr>
+}
+
+</table>
+
+<h3><p> @Html.ActionLink("Show Cart", "ShowCart") </p></h3>

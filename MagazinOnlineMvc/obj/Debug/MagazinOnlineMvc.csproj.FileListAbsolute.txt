@@ -1,0 +1,252 @@
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\MagazinOnlineMvc.dll.config
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\MagazinOnlineMvc.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\MagazinOnlineMvc.pdb
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Antlr3.Runtime.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.AspNet.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.Core.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\EntityFramework.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Data.Edm.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Data.OData.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Newtonsoft.Json.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Spatial.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Helpers.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Http.OData.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Mvc.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Optimization.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Razor.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.Deployment.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.Razor.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebGrease.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebMatrix.Data.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebMatrix.WebData.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\EntityFramework.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Newtonsoft.Json.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Helpers.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Mvc.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Razor.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.Deployment.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.Razor.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebMatrix.Data.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebMatrix.WebData.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.AspNet.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.Core.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Http.OData.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Data.Edm.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Data.OData.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Spatial.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\de\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\es\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\it\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\de\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\es\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\fr\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\it\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\ja\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\ko\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\ru\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hans\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hant\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.csprojResolveAssemblyReference.cache
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.pdb
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.Migrations.Initial.resources
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.csproj.GenerateResource.Cache
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.Migrations.AddRatingMig.resources
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.Migrations.AddRatingMig1.resources
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\MagazinOnlineMvc.dll.config
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\MagazinOnlineMvc.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\MagazinOnlineMvc.pdb
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Antlr3.Runtime.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.Core.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\EntityFramework.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Data.Edm.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Data.OData.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Newtonsoft.Json.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Spatial.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Helpers.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Http.OData.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Mvc.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Optimization.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Razor.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebGrease.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebMatrix.Data.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebMatrix.WebData.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\EntityFramework.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Newtonsoft.Json.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Helpers.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Mvc.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Razor.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebMatrix.Data.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\WebMatrix.WebData.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.Core.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Web.Http.OData.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Data.Edm.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\Microsoft.Data.OData.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\System.Spatial.xml
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\de\System.Spatial.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\es\System.Spatial.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\fr\System.Spatial.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\it\System.Spatial.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\ja\System.Spatial.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\ko\System.Spatial.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\ru\System.Spatial.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.csprojResolveAssemblyReference.cache
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.Migrations.Initial.resources
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.Migrations.AddRatingMig.resources
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.Migrations.AddRatingMig1.resources
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.csproj.GenerateResource.Cache
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.dll
+C:\Users\vlady0\Desktop\MagazinOnlineMvc\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.pdb
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\MagazinOnlineMvc.dll.config
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\MagazinOnlineMvc.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\MagazinOnlineMvc.pdb
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Antlr3.Runtime.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.AspNet.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.Core.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\EntityFramework.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Microsoft.Data.Edm.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Microsoft.Data.OData.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Newtonsoft.Json.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Spatial.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.Helpers.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.Http.OData.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.Mvc.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.Optimization.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.Razor.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.WebPages.Deployment.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.WebPages.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.WebPages.Razor.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\WebGrease.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\WebMatrix.Data.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\WebMatrix.WebData.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\EntityFramework.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Newtonsoft.Json.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.Helpers.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.Mvc.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.Razor.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.WebPages.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.WebPages.Deployment.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.WebPages.Razor.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\WebMatrix.Data.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\WebMatrix.WebData.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.AspNet.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.Core.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.OAuth.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Web.Http.OData.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Microsoft.Data.Edm.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\Microsoft.Data.OData.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\System.Spatial.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\de\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\es\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\it\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\de\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\es\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\fr\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\it\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\ja\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\ko\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\ru\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\zh-Hans\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\bin\zh-Hant\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.Migrations.Initial.resources
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.Migrations.AddRatingMig.resources
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.Migrations.AddRatingMig1.resources
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.csproj.GenerateResource.Cache
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.pdb
+E:\Facultate\An 3 - S II\Facultate\PS\Teme\2\MagazinOnlineMvc - fara cos\MagazinOnlineMvc\obj\Debug\MagazinOnlineMvc.csprojResolveAssemblyReference.cache

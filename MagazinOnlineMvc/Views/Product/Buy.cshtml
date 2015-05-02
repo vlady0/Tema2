@@ -1,0 +1,40 @@
+﻿@model MagazinOnlineMvc.Models.Product
+@{
+    ViewBag.Title = "Buy";
+}
+
+<h2>You added to chart the next product.</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    
+    <fieldset>
+        <legend>Product</legend>                    
+
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="editor-label">
+            <b>@Html.Name("\n\nName:  ") </b>
+               @Html.Name(Model.name);
+        </div>    
+            
+        <div class="editor-label">
+            <b>@Html.Name("Description:  ") </b>
+               @Html.Name(Model.description);
+        </div>        
+
+        <div class="editor-label">
+            <b>@Html.Name("Price:  ") </b>
+               @Html.Name(" " + Model.price) 
+        </div>              
+        
+        <p>
+        <p>
+            @Html.ActionLink("OK", "Index")
+        </p>
+        </p>
+    </fieldset>
+        
+}

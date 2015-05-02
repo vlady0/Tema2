@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title</h1> 
+                <p>If you to want to buy something, feel free to do it! It`s nice and easy. </p>    
+                <li>@Html.ActionLink("Go to Products", "Index", "Product")</li>         
+            </hgroup>            
+        </div>
+    </section>
+}
+<h3>We suggest the following:</h3>
+<ol class="round">
+    <li class="one">
+        <h5>Find a product</h5>
+        Look after the product you want to buy.
+    </li>
+
+    <li class="two">
+        <h5>Add the product to cart</h5>
+        By clicking the buy button.
+    </li>
+
+    <li class="three">
+        <h5>Buy the product</h5>
+        Finalize the transaction.
+    </li>
+</ol>

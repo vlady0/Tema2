@@ -1,0 +1,29 @@
+﻿@model MagazinOnlineMvc.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Product</legend>
+
+    <div class="display-label">
+        <b>@Html.Name("Name: ")</b>  @Html.DisplayFor(model => model.name)
+    </div>    
+    <div class="display-label">
+        <b>@Html.Name("Description: ") </b> @Html.DisplayFor(model => model.description)
+    </div>  
+    <div class="display-label">
+        <b>@Html.Name("Price: ") </b> @Html.DisplayFor(model => model.price)  lei
+    </div>  
+
+    <div class="display-label">
+        <b>@Html.Name("Quantity: ") </b> @Html.DisplayFor(model => model.numberOfProducts)
+    </div>   
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
